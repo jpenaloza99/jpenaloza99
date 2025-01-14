@@ -16,10 +16,10 @@ Technical Support Specialist with 2 years of experience managing and resolving t
 <a href="https://www.credly.com/badges/0e4d54e8-f650-46f5-a33c-a78a3b500153" target="_blank">
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href="https://www.credly.com/badges/c5ae6a56-1ad0-4789-ae73-074bbbc659a6" target="_blank"
+<a href="https://www.credly.com/badges/c5ae6a56-1ad0-4789-ae73-074bbbc659a6" target="_blank">
 <img src="https://img.shields.io/badge/-CompTIA_ITF+-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/account/accomplishments/specialization/HJ7WNG5M779D" target="_blank"
+<a href="https://www.coursera.org/account/accomplishments/specialization/HJ7WNG5M779D" target="_blank">
 <img src="https://img.shields.io/badge/-Google_IT_Support-000080?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 </a>
