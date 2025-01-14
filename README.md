@@ -21,7 +21,7 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 
 <h2>Projects</h2>
 
-- [Splunk SIEM Implementation and Log Analysis](https://github.com/jpenaloza99/SIEM-Implementation-and-Log-Analysis/blob/main/README.md)
+- [Splunk SIEM Implementation and Log Analysis](https://github.com/jpenaloza99/SIEM-Implementation-and-Log-Analysis)
 
 
 <h2>Skills</h2>
