@@ -1,12 +1,13 @@
 
-# Hi, I'm Jesus Penaloza-Merlan, a Cybersecurity and IT Professional
+<h1>Hi, I'm Jesus Penaloza-Merlan, a Cybersecurity and IT Professional</h1>
 
 <a href="https://www.linkedin.com/in/jpenalozamerlan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Summary
+<h2>Summary</h2>
 Technical Support Specialist with 2 years of experience in managing and resolving technical issues, ensuring optimal performance of IT systems, and providing exceptional customer service. Skilled in various operating systems, network protocols, and IT support tools, demonstrating a strong foundation in information technology. Currently pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital member of a cybersecurity team, aiming to protect organizational assets and ensure data integrity.
 
-## Certifications
+<h2>Certifications</h2>
+
 <div>
 <a href="https://www.credly.com/badges/f651fcc0-794b-4712-bea1-31d294fc3900/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -18,28 +19,28 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 </div>
 
 
-## Projects
+<h2>Projects</h2>
 
-- [Splunk SIEM Implementation and Log Analysis](/SIEM-Implementation-and-Log-Analysis/README.md)
+- [Splunk SIEM Implementation and Log Analysis](https://github.com/jpenaloza99/SIEM-Implementation-and-Log-Analysis/blob/main/README.md)
 
 
-## Skills
+<h2>Skills</h2>
 Active Directory, Entra ID, Windows Server 2022, Linux, DNS/DHCP, VMware, Log Analysis, Traffic Analysis, M365, SQL
 
 
-## Tools
+<h2>Tools</h2>
 
-### Network
+<h3>Network</h3>
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Virtualization
+<h3>Virtualization</h3>
 <div>
 <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
-### Endpoint
+<h3>Endpoint</h3>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
