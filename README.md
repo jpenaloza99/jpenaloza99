@@ -29,6 +29,8 @@ Technical Support Specialist with 2 years of experience managing and resolving t
 
 <a href="https://github.com/jpenaloza99/SIEM-Implementation-and-Log-Analysis">Splunk SIEM Implementation and Log Analysis
 </a>
+<a href="">Active Directory Environment w/ Entra cloud sync
+</a>
 
 
 <h2>Skills</h2>
