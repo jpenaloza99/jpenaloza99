@@ -20,7 +20,7 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 
 ## Projects
 
-- [Splunk SIEM Implementation and Log Analysis](SIEM-Implementation-and-Log-Analysis/README.md)
+- [Splunk SIEM Implementation and Log Analysis](/SIEM-Implementation-and-Log-AnalysisREADME.md)
 
 
 ## Skills
