@@ -24,18 +24,7 @@ Technical Support Specialist with 2 years of experience in managing and resolvin
 
 
 ## Skills
-
--                            
--                            
--                            
--                            
--                            
--
--
--
--
--
--
+Active Directory, Entra ID, Windows Server 2022, Linux, DNS/DHCP, VMware, Log Analysis, Traffic Analysis, M365, SQL
 
 
 ## Tools
