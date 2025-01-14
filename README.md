@@ -12,14 +12,17 @@ Technical Support Specialist with 2 years of experience managing and resolving t
 <a href="https://www.credly.com/badges/f651fcc0-794b-4712-bea1-31d294fc3900/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href="https://www.credly.com/badges/38a8a44c-35b4-4b48-856a-596ef20f222b"
-target="_blank">
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
+<a href="https://www.credly.com/badges/0e4d54e8-f650-46f5-a33c-a78a3b500153" target="_blank">
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/c5ae6a56-1ad0-4789-ae73-074bbbc659a6" target="_blank"
 <img src="https://img.shields.io/badge/-CompTIA_ITF+-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/HJ7WNG5M779D" target="_blank"
 <img src="https://img.shields.io/badge/-Google_IT_Support-000080?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+</a>
 
 
 <h2>Projects</h2>
