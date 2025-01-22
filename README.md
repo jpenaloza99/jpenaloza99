@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Jesus Penaloza-Merlan <br> IT Professional </h1>
+<h1>Hi, I'm Jesus Penaloza-Merlan an IT Professional </h1>
 
 <a href="https://www.linkedin.com/in/jpenalozamerlan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
