@@ -35,7 +35,7 @@ IT professional with 2 years of experience managing and resolving technical issu
 
 
 <h2>Skills</h2>
-Active Directory, Entra ID, Windows Server 2022, Linux, DNS/DHCP, VMware, Log Analysis, Traffic Analysis, M365, SQL
+Active Directory, Group Policy, Intune, Entra AD(Azure), Windows Server 2022, Python, Powershell, Linux, DNS, DHCP, VMware(Virtualization), Log Analysis, Packet Analysis, M365, SQL, Wireshark
 
 
 <h2>Tools</h2>
