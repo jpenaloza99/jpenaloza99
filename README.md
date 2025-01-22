@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jpenalozamerlan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>Summary</h2>
-IT professional with 2 years of experience managing and resolving technical issues, ensuring optimal performance of IT systems, and providing exceptional customer service. Skilled in various operating systems, network protocols, security and  IT support tools, demonstrating a strong foundation in information technology I’m currently pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital member of a cybersecurity team pursuing career advancement into the cybersecurity field to contribute effective solutions and insights as a vital cybersecurity team member, aiming to protect organizational assets and ensure data integrity.
+IT professional with 2 years of experience managing and resolving technical issues, ensuring optimal performance of IT systems, and providing exceptional customer service. Skilled in various operating systems, networking protocols, security and IT support tools, demonstrating a strong foundation in information technology. I’m currently pursuing career advancement to contribute effective solutions and insights as a vital member of the IT team.
 
 <h2>Certifications</h2>
 
